@@ -1,0 +1,52 @@
+[
+  {
+    "content": "Jaki jest kolor nieba?",
+    "options": ["Niebieski", "Zielony", "Czerwony", "Żółty"],
+    "correctOption": 0
+  },
+  {
+    "content": "Ile to 2+2?",
+    "options": ["3", "4", "5", "6"],
+    "correctOption": 1
+  },
+  {
+    "content": "Jakie zwierzę jest królem dżungli?",
+    "options": ["Lew", "Tygrys", "Słoń", "Gepard"],
+    "correctOption": 0
+  },
+  {
+    "content": "Co jest stolicą Polski?",
+    "options": ["Kraków", "Warszawa", "Gdańsk", "Wrocław"],
+    "correctOption": 1
+  },
+  {
+    "content": "Ile dni ma tydzień?",
+    "options": ["5", "6", "7", "8"],
+    "correctOption": 2
+  },
+  {
+    "content": "Który miesiąc ma 28 dni?",
+    "options": ["Luty", "Styczeń", "Marzec", "Grudzień"],
+    "correctOption": 0
+  },
+  {
+    "content": "Jakiego pierwiastka chemicznego symbolem jest O?",
+    "options": ["Złoto", "Tlen", "Wodór", "Węgiel"],
+    "correctOption": 1
+  },
+  {
+    "content": "Co to jest Flutter?",
+    "options": ["Framework do budowy aplikacji", "System operacyjny", "Język programowania", "Baza danych"],
+    "correctOption": 0
+  },
+  {
+    "content": "Które zwierzę potrafi latać?",
+    "options": ["Pies", "Kot", "Ptak", "Ryba"],
+    "correctOption": 2
+  },
+  {
+    "content": "Ile kontynentów jest na Ziemi?",
+    "options": ["5", "6", "7", "8"],
+    "correctOption": 2
+  }
+]
